@@ -26,5 +26,17 @@ https://www.youtube.com/watch?v=17RS1rNIG1c&list=PL8VbCbavWfeG5eS7QsIQLhTKtUVNvA
 
 
 
+DB Testin : 
+
+root 
+demirals1234
+
+
+MySQL-NodeJS connection:
+https://www.youtube.com/watch?v=FnnpqtFq89s
+
+
 
 Docker erstellung:
+
+
